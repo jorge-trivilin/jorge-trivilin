@@ -1,4 +1,8 @@
-# JORGE TRIVILIN
+# WELCOME
+
+![GutsGIF](https://github.com/jorge-trivilin/jorge-trivilin/assets/84451671/884a6647-c21d-4876-acfd-a101444b5ac1)
+
+
 
 Welcome to my GitHub! I'm a Senior Data Analyst with a tech-savvy edge and a deep dive into the intricacies of Customer Relationship Management (CRM). With 8 years under my belt navigating both Direct-to-Consumer (D2C) and Business-to-Business (B2B) landscapes, I bring a blend of analytical prowess and data-driven insights to the table.
 
