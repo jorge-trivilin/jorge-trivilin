@@ -38,6 +38,7 @@ Feel free to reach out for collaborations, questions, or just a chat about data 
 
 - **[LinkedIn]([YourLinkedInProfile](https://www.linkedin.com/in/jorgetrivilin/))**
 - **[Email](mailto:youremail@example.com)**
+
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 ---
