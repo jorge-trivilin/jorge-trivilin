@@ -24,6 +24,9 @@ My approach is straightforward yet effective:
 
 Here's a quick look at the tools and techniques in my arsenal:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 - **Data Analysis & ETL:** Python, SQL, BigQuery, MySQL, PostgreSQL, SQL Alchemy, dbt.
 - **Digital Marketing & CRM:** Google Analytics, SEM Rush, Active Campaign, Salesforce Marketing Cloud, and more.
 - **Business Intelligence & Visualization:** Looker, Power BI, Tableau.
@@ -38,7 +41,5 @@ Feel free to reach out for collaborations, questions, or just a chat about data 
 
 - **[LinkedIn]([YourLinkedInProfile](https://www.linkedin.com/in/jorgetrivilin/))**
 - **[Email](mailto:youremail@example.com)**
-
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 ---
