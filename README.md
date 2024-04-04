@@ -9,7 +9,7 @@ I'm the bridge between raw data and strategic execution. My role involves:
 - Crafting personalized strategies by treating different customers uniquely.
 - Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.
 
-## How do I do it differently?
+## How Do I do It Differently?
 
 My approach is straightforward yet effective:
 - **Understanding Business Objectives:** Aligning data-driven decisions with overarching goals, especially around the customer lifecycle.
