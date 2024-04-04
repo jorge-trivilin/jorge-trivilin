@@ -1,16 +1,6 @@
-# WELCOME
+# Welcome 🙋‍♂️
 
-![GutsGIF](https://github.com/jorge-trivilin/jorge-trivilin/assets/84451671/884a6647-c21d-4876-acfd-a101444b5ac1)
-
-
-
-Welcome to my GitHub! I'm a Senior Data Analyst with a tech-savvy edge and a deep dive into the intricacies of Customer Relationship Management (CRM). With 8 years under my belt navigating both Direct-to-Consumer (D2C) and Business-to-Business (B2B) landscapes, I bring a blend of analytical prowess and data-driven insights to the table.
-
-## 🙋‍♂️ Who Am I?
-
-- **Senior Data Analyst:** Specializing in CRM, with a knack for extracting compelling insights from complex datasets.
-- **Technology Enthusiast:** Always on the hunt for innovative tools and techniques that push the boundaries of data analysis.
-- **Insight Generator:** Proven track record in turning data into actionable strategies, crafting hypotheses, and validating assumptions with precision.
+My name is Jorge Trivilin, i'm a senior data analyst, technology enthusiast with 8 years of experience in CRM. (D2C and B2B), good analytical skills and proven ability to explore data to generate good insights, hypotheses, and assumptions.
 
 ## 🚀 What Do I Do?
 
