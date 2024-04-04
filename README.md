@@ -42,28 +42,15 @@ My approach is straightforward yet effective:
 ![Salesforce](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Pipedrive](https://img.shields.io/badge/Pipedrive-3C3C3B?style=for-the-badge&logo=pipedrive&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 I believe in the power of data to transform businesses, guide strategic decisions, and foster growth. Let's connect if you're on a similar journey or could use a hand turning data into insights!
 
 ## Reach Me
 
 Feel free to reach out for collaborations, questions, or just a chat about data and technology.
 
-- **[LinkedIn]([YourLinkedInProfile](https://www.linkedin.com/in/jorgetrivilin/))**
-- **[Email](mailto:youremail@example.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YourLinkedInURL](https://www.linkedin.com/in/jorgetrivilin/))
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgetrivilin@gmail.com)
+
 
 ---
