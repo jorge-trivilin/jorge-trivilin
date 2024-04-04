@@ -22,16 +22,16 @@ My approach is straightforward yet effective:
 
 ## Tools & Technologies
 
-Here's a quick look at the tools and techniques in my arsenal:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-- **Data Analysis & ETL:** Python, SQL, BigQuery, MySQL, PostgreSQL, SQL Alchemy, dbt.
-- **Digital Marketing & CRM:** Google Analytics, SEM Rush, Active Campaign, Salesforce Marketing Cloud, and more.
-- **Business Intelligence & Visualization:** Looker, Power BI, Tableau.
-- **NLP & Machine Learning:** Prompt Engineering, Decision Trees, Random Forest, K-means++.
-- **Project Management & Presentation:** Jira, Confluence, Notion, PowerPoint, Google Slides.
+
 
 I believe in the power of data to transform businesses, guide strategic decisions, and foster growth. Let's connect if you're on a similar journey or could use a hand turning data into insights!
 
