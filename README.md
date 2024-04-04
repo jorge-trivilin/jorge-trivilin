@@ -2,14 +2,14 @@
 
 My name is Jorge Trivilin, i'm a senior data analyst, technology enthusiast with 8 years of experience in CRM. (D2C and B2B), good analytical skills and proven ability to explore data to generate good insights, hypotheses, and assumptions.
 
-## 🚀 What Do I Do?
+## What Do I Do?
 
 I'm the bridge between raw data and strategic execution. My role involves:
 - Assisting teams in gathering and compiling performance metrics.
 - Crafting personalized strategies by treating different customers uniquely.
 - Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.
 
-## 💡 How Do I Do It?
+## How Do I Do It?
 
 My approach is straightforward yet effective:
 - **Understanding Business Objectives:** Aligning data-driven decisions with overarching goals, especially around the customer lifecycle.
@@ -20,7 +20,7 @@ My approach is straightforward yet effective:
 - **Simplicity & Efficiency:** Focusing on simplifying models without compromising on outcome quality.
 - **Continuous Learning:** Keeping abreast with the latest in data analysis, machine learning, and beyond.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 Here's a quick look at the tools and techniques in my arsenal:
 
@@ -32,7 +32,7 @@ Here's a quick look at the tools and techniques in my arsenal:
 
 I believe in the power of data to transform businesses, guide strategic decisions, and foster growth. Let's connect if you're on a similar journey or could use a hand turning data into insights!
 
-## 📫 How to Reach Me
+## Reach Me
 
 Feel free to reach out for collaborations, questions, or just a chat about data and technology.
 
