@@ -47,8 +47,7 @@ I believe in the power of data to transform businesses, guide strategic decision
 ## Reach Me
 
 Feel free to reach out for collaborations, questions, or just a chat about data and technology.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YourLinkedInURL](https://www.linkedin.com/in/jorgetrivilin/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgetrivilin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgetrivilin@gmail.com)
 
 
