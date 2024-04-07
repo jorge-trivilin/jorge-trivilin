@@ -4,10 +4,10 @@
 
 ### What Do I Do?
 
-*My role usualy involves:
+*My role usualy involves:*
 - Assisting teams in gathering and compiling performance metrics.
 - Crafting personalized strategies by treating different customers uniquely.
-- Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.*
+- Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.
 
 ### How Do I do It Differently?
 
