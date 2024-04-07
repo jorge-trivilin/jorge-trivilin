@@ -1,6 +1,6 @@
 # Welcome 🙋‍♂️
 
-My name is Jorge Trivilin. I'm a athlete, gamer, technology and mental models enthusiast and darksouls/berserk fan of dark souls, berserk and one piece. ;)
+My name is Jorge Trivilin. You could define me as a: athlete, gamer, technology|mental models enthusiast and darksouls|berserk|one piece. ;)
 
 ## What Do I Do?
 
