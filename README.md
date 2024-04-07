@@ -1,15 +1,15 @@
-# Welcome 🙋‍♂️
+### Welcome 🙋‍♂️
 
 My name is Jorge Trivilin. You could define me as a: *athlete, gamer, technology|mental models enthusiast and darksouls|berserk|one piece. ;)*
 
-## What Do I Do?
+### What Do I Do?
 
 My role usualy involves:
 - Assisting teams in gathering and compiling performance metrics.
 - Crafting personalized strategies by treating different customers uniquely.
 - Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.
 
-## How Do I do It Differently?
+### How Do I do It Differently?
 
 My approach is straightforward yet effective:
 - **Understanding Business Objectives:** Aligning data-driven decisions with overarching goals, especially around the customer lifecycle.
@@ -20,7 +20,7 @@ My approach is straightforward yet effective:
 - **Simplicity & Efficiency:** Focusing on simplifying models without compromising on outcome quality.
 - **Continuous Learning:** Keeping abreast with the latest in data analysis, machine learning, and beyond.
 
-## Tools & Technologies
+### Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -46,7 +46,7 @@ My approach is straightforward yet effective:
 
 I believe in the power of data to transform businesses, guide strategic decisions, and foster growth. Let's connect if you're on a similar journey or could use a hand turning data into insights!
 
-## Reach Me
+### Reach Me
 
 Feel free to reach out for collaborations, questions, or just a chat about data and technology.
 
