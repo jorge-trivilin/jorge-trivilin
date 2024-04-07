@@ -47,9 +47,7 @@ My approach is straightforward yet effective:
 ![Salesforce](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Pipedrive](https://img.shields.io/badge/Pipedrive-3C3C3B?style=for-the-badge&logo=pipedrive&logoColor=white)
 
-I believe in the power of data to transform businesses, guide strategic decisions, and foster growth. Let's connect if you're on a similar journey or could use a hand turning data into insights!
-
-### Reach Me
+### Let's connect
 
 Feel free to reach out for collaborations, questions, or just a chat about data and technology.
 
