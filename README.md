@@ -1,24 +1,27 @@
-## Welcome 🙋‍♂️
+## Welcome
 
-*My name is Jorge Trivilin. You could define me as a: athlete, gamer, technology | mental models enthusiast and darksouls | berserk | one piece. ;)*
+My name is Jorge Trivilin. 
+
+You could define me as a: athlete, gamer, technology | mental models enthusiast and darksouls | berserk | one piece. ;)*
 
 ### What Do I Do?
 
-*My role usualy involves:*
-- Assisting teams in gathering and compiling performance metrics.
-- Crafting personalized strategies by treating different customers uniquely.
-- Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.
+My role usualy involves:
+- *Assisting teams in gathering and compiling performance metrics.*
+- *Crafting personalized strategies by treating different customers uniquely.*
+- *Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.*
 
 ### How Do I do It Differently?
 
 My approach is straightforward yet effective:
-- **Understanding Business Objectives:** Aligning data-driven decisions with overarching goals, especially around the customer lifecycle.
-- **Building ETL Pipelines:** Leveraging Python and SQL for data cleaning and wrangling, ensuring clean, reliable datasets.
-- **Clear Communication:** Making complex insights accessible and engaging for cross-functional teams.
-- **Deep Marketing Knowledge:** Applying CRM and growth hacking principles to understand and enhance the customer journey.
-- **Innovative Use of NLP:** Employing Natural Language Processing for problem decomposition and critical thinking.
-- **Simplicity & Efficiency:** Focusing on simplifying models without compromising on outcome quality.
-- **Continuous Learning:** Keeping abreast with the latest in data analysis, machine learning, and beyond.
+
+- *Understanding Business Objectives: Aligning data-driven decisions with overarching goals, especially around the customer lifecycle.*
+- *Building ETL Pipelines: Leveraging Python and SQL for data cleaning and wrangling, ensuring clean, reliable datasets.*
+- *Clear Communication: Making complex insights accessible and engaging for cross-functional teams.*
+- *Deep Marketing Knowledge: Applying CRM and growth hacking principles to understand and enhance the customer journey.*
+- *Innovative Use of NLP: Employing Natural Language Processing for problem decomposition and critical thinking.*
+- *Simplicity & Efficiency: Focusing on simplifying models without compromising on outcome quality.*
+- *Continuous Learning: Keeping abreast with the latest in data analysis, machine learning, and beyond.*
 
 ### Tools & Technologies
 
