@@ -1,10 +1,10 @@
 # Welcome 🙋‍♂️
 
-My name is Jorge Trivilin, i'm a senior data analyst, technology enthusiast with 8 years of experience in CRM. (D2C and B2B), good analytical skills and proven ability to explore data to generate good insights, hypotheses, and assumptions.
+My name is Jorge Trivilin. I'm a athlete, gamer, technology and mental models enthusiast and darksouls/berserk fan of dark souls, berserk and one piece. ;)
 
 ## What Do I Do?
 
-I'm the bridge between raw data and strategic execution. My role involves:
+My role usualy involves:
 - Assisting teams in gathering and compiling performance metrics.
 - Crafting personalized strategies by treating different customers uniquely.
 - Utilizing data to inform business objectives, identify opportunities, and drive impactful decisions.
