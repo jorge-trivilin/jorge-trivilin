@@ -2,7 +2,7 @@
 
 My name is Jorge Trivilin. 
 
-*You could define me as a: athlete, gamer, technology | mental models enthusiast and *darksouls* | *berserk* | *one piece*. ;)*
+*You could define me as a: athlete, gamer, technology | mental models enthusiast and **darksouls** | **berserk** | **one piece**. ;)*
 
 ### What Do I Do?
 
