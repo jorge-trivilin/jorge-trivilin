@@ -23,29 +23,22 @@ My approach is straightforward yet effective:
 - *Simplicity & Efficiency: Focusing on **simplifying** models without compromising on outcome quality.*
 - *Continuous Learning: Keeping abreast with the latest in **data analysis**, machine learning, and beyond.*
 
-### Tools & Technologies
+### Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Ubuntu Supported](https://img.shields.io/badge/Ubuntu-Supported-E95420?style=flat&logo=Ubuntu)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-Note_Taking-E95420?style=flat&color=483699)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Active Campaign](https://img.shields.io/badge/Active_Campaign-3A7BD5?style=for-the-badge&logo=activecampaign&logoColor=white)
-![MailChimp](https://img.shields.io/badge/MailChimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Pipedrive](https://img.shields.io/badge/Pipedrive-3C3C3B?style=for-the-badge&logo=pipedrive&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-integrated-ff7f37?style=flat&logo=HubSpot&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Enabled-4285F4?style=flat&logo=Google-BigQuery&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-Used-FF9900?style=flat&logo=Amazon-SageMaker&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-Queried-5433FF?style=flat&logo=Amazon-Athena&logoColor=white)
+
+
 
 ### Let's connect
 
