@@ -25,13 +25,15 @@ My approach is straightforward yet effective:
 
 ### Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFEF00?style=flat&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483D8B?style=flat&logo=Obsidian&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=Google-Analytics&logoColor=white)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=HubSpot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
+
 
 
 
