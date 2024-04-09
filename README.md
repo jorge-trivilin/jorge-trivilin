@@ -36,7 +36,6 @@ My approach is straightforward yet effective:
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=Google-Analytics&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=HubSpot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
-![PlayStation 5](https://img.shields.io/badge/-PlayStation_5-003791?style=flat&logo=PlayStation&logoColor=white)
 
 
 
