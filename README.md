@@ -46,7 +46,7 @@ My approach is straightforward yet effective:
 
 Feel free to reach out for collaborations, questions, or just a chat about data and technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgetrivilin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgetrivilin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/jorgetrivilin))
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jorgetrivilin@gmail.com)
 
 ---
