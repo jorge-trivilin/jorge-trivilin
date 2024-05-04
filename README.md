@@ -19,7 +19,8 @@
 
 
 <h2 align='center'>Let's Connect</h1>
-Feel free to reach out for collaborations, questions, or just a chat about data and technology.
+<p align="center"><em>Feel free to reach out for collaborations, questions, or just a chat about data and technology.
+</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jorgetrivilin)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jorge.trivilin@gmail.com)
