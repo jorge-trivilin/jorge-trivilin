@@ -1,8 +1,6 @@
 <h1 align='center'>Welcome</h1>
-
-My name is Jorge Trivilin. 
-
-*You could define me as a: **athlete**, **gamer**, **technology** | **mental models** | **obsidian** enthusiast and **darksouls** | **berserk** | **one piece** fan. ;)*
+<p align="center">My name is Jorge Trivilin.</p>
+<p align="center">*You could define me as a: **athlete**, **gamer**, **technology** | **mental models** | **obsidian** enthusiast and **darksouls** | **berserk** | **one piece** fan. ;)*</p>
 
 ### Tools
 
