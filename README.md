@@ -18,6 +18,7 @@ My name is Jorge Trivilin.
 ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=HubSpot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
 
+![Ícone](/home/jorgetrivilin/jorge-trivilin/icons/128x128.png)
 
 
 
