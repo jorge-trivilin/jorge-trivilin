@@ -3,7 +3,7 @@
 <p align="center"><em>You could define me as a: <strong>athlete</strong>, <strong>gamer</strong>, <strong>technology</strong> | <strong>mental models</strong> | <strong>obsidian</strong> enthusiast and <strong>darksouls</strong> | <strong>berserk</strong> | <strong>one piece</strong> fan. ;)</em></p>
 
 
-### Tools
+<h2 align='center'>Tools</h1>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
@@ -18,8 +18,7 @@
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
 
 
-### Let's connect
-
+<h2 align='center'>Let's Connect</h1>
 Feel free to reach out for collaborations, questions, or just a chat about data and technology.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jorgetrivilin)
