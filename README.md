@@ -20,6 +20,7 @@ My name is Jorge Trivilin.
 
 
 
+![Ícone do Bash](https://raw.githubusercontent.com/gabrieleluz/gnubash/gnubash-icon.svg)
 
 
 
