@@ -1,5 +1,4 @@
 <h1 align='center'>Welcome</h2>
-<p align="center">My name is Jorge Trivilin.</p>
 <p align="center"><em>You could define me as a: <strong>athlete</strong>, <strong>gamer</strong>, <strong>technology</strong> | <strong>mental models</strong> | <strong>obsidian</strong> enthusiast and <strong>darksouls</strong> | <strong>berserk</strong> | <strong>one piece</strong> | <strong>metal gear solid</strong> fan. ;)</em></p>
 
 
