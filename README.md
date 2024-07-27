@@ -2,8 +2,6 @@
 <p align="center"><em>You could define me as a: <strong>athlete</strong>, <strong>gamer</strong>, <strong>technology</strong> | <strong>mental models</strong> | <strong>obsidian</strong> enthusiast and <strong>darksouls</strong> | <strong>berserk</strong> | <strong>one piece</strong> | <strong>metal gear solid</strong> fan. ;)</em></p>
 
 
-<h2 align='center'>Tools</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white">
