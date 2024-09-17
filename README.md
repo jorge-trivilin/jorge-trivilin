@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/-Obsidian-483D8B?style=flat&logo=Obsidian&logoColor=white">
   <img src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=Google-Analytics&logoColor=white">
-  <img src="https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=HubSpot&logoColor=white">
-  <img src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white">
   <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white">
   <img src="https://img.shields.io/badge/-SageMaker-FF9900?style=flat&logo=Amazon-AWS&logoColor=white">
   <img src="https://img.shields.io/badge/-Glue-FF9900?style=flat&logo=Amazon-AWS&logoColor=white">
